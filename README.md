@@ -9,9 +9,12 @@ Non c'è molto da dire, il progetto che portato è un semplice gioco del blackja
 Il tutto è stato fatto in 45 ore, tempo limite imposto dal professore.
 
 All'interno vi sono tre cartelle :
+
 Blackjack : contiene il gioco vero e proprio, zippato attraverso Netbeans. 
+
 ServerLogXMLEventi : contiene il server che riceve gli eventi XML dal gioco, come apertura, puntata, chiusura.
-Documentazione : contiene i documenti di analisi e di progetto, creati prima dello sviluppo vero e proprio
+
+Documentazione : contiene i documenti di analisi e di progetto, creati prima dello sviluppo vero e proprio. Vi è inoltre il Manuale d'Uso
 
 
 ------------------------
@@ -21,5 +24,7 @@ Everything was done in 45 hours, which was the max time allowed.
 
 There are 3 folders:
 Blackjack : here you can find the game itself, zipped via Netbeans.
+
 ServerLogXMLEventi : here you can find the server that receives some XML events, like "hint", or "hit", "stay" etc. 
-Documentazione : here you can find the Issue Paper and the Project Documents, all made before coding anything. 
+
+Documentazione : here you can find the Issue Paper, Project Documents and the Instructions Manual, the first 2 were made before coding anything. 
