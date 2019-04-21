@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- evento.xml -->
+<Evento>
+  <nomeGioco>Blackjack</nomeGioco>
+  <IPClient>192.168.1.2</IPClient>
+  <timestamp>2018-11-03 16:06:38.619</timestamp>
+  <nmEvento>AVVIO</nmEvento>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- evento.xml -->
+<Evento>
+  <nomeGioco>Blackjack</nomeGioco>
+  <IPClient>192.168.1.2</IPClient>
+  <timestamp>2018-11-03 16:06:43.025</timestamp>
+  <nmEvento>LOGIN</nmEvento>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- evento.xml -->
+<Evento>
+  <nomeGioco>Blackjack</nomeGioco>
+  <IPClient>192.168.1.2</IPClient>
+  <timestamp>2018-11-03 16:06:44.163</timestamp>
+  <nmEvento>PUNTARE</nmEvento>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- evento.xml -->
+<Evento>
+  <nomeGioco>Blackjack</nomeGioco>
+  <IPClient>192.168.1.2</IPClient>
+  <timestamp>2018-11-03 16:06:44.827</timestamp>
+  <nmEvento>STARE</nmEvento>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- evento.xml -->
+<Evento>
+  <nomeGioco>Blackjack</nomeGioco>
+  <IPClient>192.168.1.2</IPClient>
+  <timestamp>2018-11-03 16:06:46.078</timestamp>
+  <nmEvento>PUNTARE</nmEvento>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- evento.xml -->
+<Evento>
+  <nomeGioco>Blackjack</nomeGioco>
+  <IPClient>192.168.1.2</IPClient>
+  <timestamp>2018-11-03 16:06:46.494</timestamp>
+  <nmEvento>STARE</nmEvento>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- evento.xml -->
+<Evento>
+  <nomeGioco>Blackjack</nomeGioco>
+  <IPClient>192.168.1.2</IPClient>
+  <timestamp>2018-11-03 16:06:46.904</timestamp>
+  <nmEvento>PUNTARE</nmEvento>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- evento.xml -->
+<Evento>
+  <nomeGioco>Blackjack</nomeGioco>
+  <IPClient>192.168.1.2</IPClient>
+  <timestamp>2018-11-03 16:06:47.464</timestamp>
+  <nmEvento>STARE</nmEvento>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- evento.xml -->
+<Evento>
+  <nomeGioco>Blackjack</nomeGioco>
+  <IPClient>192.168.1.2</IPClient>
+  <timestamp>2018-11-03 16:06:47.816</timestamp>
+  <nmEvento>PUNTARE</nmEvento>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- evento.xml -->
+<Evento>
+  <nomeGioco>Blackjack</nomeGioco>
+  <IPClient>192.168.1.2</IPClient>
+  <timestamp>2018-11-03 16:06:48.458</timestamp>
+  <nmEvento>STARE</nmEvento>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- evento.xml -->
+<Evento>
+  <nomeGioco>Blackjack</nomeGioco>
+  <IPClient>192.168.1.2</IPClient>
+  <timestamp>2018-11-03 16:06:48.818</timestamp>
+  <nmEvento>PUNTARE</nmEvento>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- evento.xml -->
+<Evento>
+  <nomeGioco>Blackjack</nomeGioco>
+  <IPClient>192.168.1.2</IPClient>
+  <timestamp>2018-11-03 16:06:49.676</timestamp>
+  <nmEvento>PESCARE</nmEvento>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- evento.xml -->
+<Evento>
+  <nomeGioco>Blackjack</nomeGioco>
+  <IPClient>192.168.1.2</IPClient>
+  <timestamp>2018-11-03 16:06:50.124</timestamp>
+  <nmEvento>STARE</nmEvento>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- evento.xml -->
+<Evento>
+  <nomeGioco>Blackjack</nomeGioco>
+  <IPClient>192.168.1.2</IPClient>
+  <timestamp>2018-11-03 16:06:50.828</timestamp>
+  <nmEvento>PUNTARE</nmEvento>
+</Evento>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- evento.xml -->
+<Evento>
+  <nomeGioco>Blackjack</nomeGioco>
+  <IPClient>192.168.1.2</IPClient>
+  <timestamp>2018-11-03 16:06:51.885</timestamp>
+  <nmEvento>TERMINE</nmEvento>
+</Evento>
+

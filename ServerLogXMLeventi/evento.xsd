@@ -1,0 +1,15 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Evento">
+    <xs:annotation>
+      <xs:documentation>evento.xml</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element type="xs:string" name="nomeGioco"/>
+        <xs:element type="xs:string" name="IPClient"/>
+        <xs:element type="xs:string" name="timestamp"/>
+        <xs:element type="xs:string" name="nmEvento"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
