@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- paramConfig.xml -->
+<ParametriConfigurazione>
+  <nomeApp>BlackJack</nomeApp>
+  <ipClient>169.254.37.95</ipClient>
+  <ipServer>localhost</ipServer>
+  <portaServer>8080</portaServer>
+  <xUtenti>3</xUtenti>
+  <gGiorni>15</gGiorni>
+  <maxPuntata>100</maxPuntata>
+</ParametriConfigurazione>

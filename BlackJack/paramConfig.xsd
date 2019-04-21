@@ -1,0 +1,18 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="ParametriConfigurazione">
+    <xs:annotation>
+      <xs:documentation>paramConfig.xml</xs:documentation>
+    </xs:annotation>
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element type="xs:string" name="nomeApp"/>
+        <xs:element type="xs:string" name="ipClient"/>
+        <xs:element type="xs:string" name="ipServer"/>
+        <xs:element type="xs:short" name="portaServer"/>
+        <xs:element type="xs:byte" name="xUtenti"/>
+        <xs:element type="xs:byte" name="gGiorni"/>
+        <xs:element type="xs:byte" name="maxPuntata"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
